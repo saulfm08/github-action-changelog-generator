@@ -7,7 +7,7 @@ This action is able to generate `CHANGELOG.md` file based on the GitHub project 
 # Usage
 ```yaml
   - name: Generate changelog
-    uses: saulfm08/github-action-changelog-generator
+    uses: saulfm08/github-action-changelog-generator@v0.1.0-alpha 
     with:
       # You can pass any parameters from https://github.com/github-changelog-generator/github-changelog-generator/wiki/Advanced-change-log-generation-examples#additional-options
       options: --token ${{ secrets.GITHUB_TOKEN }}
