@@ -1,8 +1,8 @@
 name: 'This works as an Interface to generate CHANGELOG.md using github-changelog-generator'
 description: 'Creates or updates a changelog file in your repository with the help of the github-changelog-generator project'
 branding:
-  icon: 'book-open'
-  color: 'green'
+  icon: 'list'
+  color: 'blue'
 inputs:
   options:
     description: 'https://github.com/github-changelog-generator/github-changelog-generator/wiki/Advanced-change-log-generation-examples#additional-options'
