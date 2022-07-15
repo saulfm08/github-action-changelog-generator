@@ -1,4 +1,4 @@
-name: 'Generate Changelog using github-changelog-generator'
+name: 'This works as an Interface to generate CHANGELOG.md using github-changelog-generator'
 description: 'Creates or updates a changelog file in your repository with the help of the github-changelog-generator project'
 branding:
   icon: 'book-open'
